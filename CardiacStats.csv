@@ -1,0 +1,304 @@
+﻿age,sex,Province,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Male,Andhra Pradesh,asymptomatic,145,233,TRUE,FALSE,150,0,2.3,0,0,1,Effected
+37,Male,Arunachal Pradesh,non-anginal pain,130,250,FALSE,TRUE,187,0,3.5,0,0,2,Effected
+41,Female,Assam,atypical angina,130,204,FALSE,FALSE,172,0,1.4,2,0,2,Effected
+56,Male,Bihar,atypical angina,120,236,FALSE,TRUE,178,0,0.8,2,0,2,Effected
+57,Female,Chhattisgarh,typical angina,120,354,FALSE,TRUE,163,1,0.6,2,0,2,Effected
+57,Male,Karnataka,typical angina,140,192,FALSE,TRUE,148,0,0.4,1,0,1,Effected
+56,Female,Punjab,atypical angina,140,294,FALSE,FALSE,153,0,1.3,1,0,2,Effected
+44,Male,Haryana,atypical angina,120,263,FALSE,TRUE,173,0,0,2,0,3,Effected
+52,Male,Himachal Pradesh,non-anginal pain,172,199,TRUE,TRUE,162,0,0.5,2,0,3,Effected
+57,Male,Jharkhand,non-anginal pain,150,168,FALSE,TRUE,174,0,1.6,2,0,2,Effected
+54,Male,Goa,typical angina,140,239,FALSE,TRUE,160,0,1.2,2,0,2,Effected
+48,Female,Kerala,non-anginal pain,130,275,FALSE,TRUE,139,0,0.2,2,0,2,Effected
+49,Male,Madhya Pradesh,atypical angina,130,266,FALSE,TRUE,171,0,0.6,2,0,2,Effected
+64,Male,Maharashtra,asymptomatic,110,211,FALSE,FALSE,144,1,1.8,1,0,2,Effected
+58,Female,Manipur,asymptomatic,150,283,TRUE,FALSE,162,0,1,2,0,2,Effected
+50,Female,Meghalaya,non-anginal pain,120,219,FALSE,TRUE,158,0,1.6,1,0,2,Effected
+58,Female,Mizoram,non-anginal pain,120,340,FALSE,TRUE,172,0,0,2,0,2,Effected
+66,Female,Nagaland,asymptomatic,150,226,FALSE,TRUE,114,0,2.6,0,0,2,Effected
+43,Male,Odisha,typical angina,150,247,FALSE,TRUE,171,0,1.5,2,0,2,Effected
+69,Female,Tamil Nadu,asymptomatic,140,239,FALSE,TRUE,151,0,1.8,2,2,2,Effected
+59,Male,Rajasthan,typical angina,135,234,FALSE,TRUE,161,0,0.5,1,0,3,Effected
+44,Male,Sikkim,non-anginal pain,130,233,FALSE,TRUE,179,1,0.4,2,0,2,Effected
+42,Male,Gujarat,typical angina,140,226,FALSE,TRUE,178,0,0,2,0,2,Effected
+61,Male,Telangana,non-anginal pain,150,243,TRUE,TRUE,137,1,1,1,0,2,Effected
+40,Male,Tripura,asymptomatic,140,199,FALSE,TRUE,178,1,1.4,2,0,3,Effected
+71,Female,Uttar Pradesh,atypical angina,160,302,FALSE,TRUE,162,0,0.4,2,2,2,Effected
+59,Male,Uttarakhand,non-anginal pain,150,212,TRUE,TRUE,157,0,1.6,2,0,2,Effected
+51,Male,West Bengal,non-anginal pain,110,175,FALSE,TRUE,123,0,0.6,2,0,2,Effected
+65,Female,Andaman and Nicobar Islands,non-anginal pain,140,417,TRUE,FALSE,157,0,0.8,2,1,2,Effected
+53,Male,Chandigarh,non-anginal pain,130,197,TRUE,FALSE,152,0,1.2,0,0,2,Effected
+41,Female,Delhi,atypical angina,105,198,FALSE,TRUE,168,0,0,2,1,2,Effected
+65,Male,Jammu and Kashmir,typical angina,120,177,FALSE,TRUE,140,0,0.4,2,0,3,Effected
+44,Male,Lakshadweep,atypical angina,130,219,FALSE,FALSE,188,0,0,2,0,2,Effected
+54,Male,Puducherry,non-anginal pain,125,273,FALSE,FALSE,152,0,0.5,0,1,2,Effected
+51,Male,West Bengal,asymptomatic,125,213,FALSE,FALSE,125,1,1.4,2,1,2,Effected
+46,Female,Punjab,non-anginal pain,142,177,FALSE,FALSE,160,1,1.4,0,0,2,Effected
+54,Female,Karnataka,non-anginal pain,135,304,TRUE,TRUE,170,0,0,2,0,2,Effected
+54,Male,Punjab,non-anginal pain,150,232,FALSE,FALSE,165,0,1.6,2,0,3,Effected
+65,Female,Haryana,non-anginal pain,155,269,FALSE,TRUE,148,0,0.8,2,0,2,Effected
+65,Female,Himachal Pradesh,non-anginal pain,160,360,FALSE,FALSE,151,0,0.8,2,0,2,Effected
+51,Female,Tamil Nadu,non-anginal pain,140,308,FALSE,FALSE,142,0,1.5,2,1,2,Effected
+48,Male,Andhra Pradesh,atypical angina,130,245,FALSE,FALSE,180,0,0.2,1,0,2,Effected
+45,Male,Arunachal Pradesh,typical angina,104,208,FALSE,FALSE,148,1,3,1,0,2,Effected
+53,Female,Assam,typical angina,130,264,FALSE,FALSE,143,0,0.4,1,0,2,Effected
+39,Male,Bihar,non-anginal pain,140,321,FALSE,FALSE,182,0,0,2,0,2,Effected
+52,Male,Chhattisgarh,atypical angina,120,325,FALSE,TRUE,172,0,0.2,2,0,2,Effected
+44,Male,Karnataka,non-anginal pain,140,235,FALSE,FALSE,180,0,0,2,0,2,Effected
+47,Male,Punjab,non-anginal pain,138,257,FALSE,FALSE,156,0,0,2,0,2,Effected
+53,Female,Punjab,non-anginal pain,128,216,FALSE,FALSE,115,0,0,2,0,0,Effected
+53,Female,Himachal Pradesh,typical angina,138,234,FALSE,FALSE,160,0,0,2,0,2,Effected
+51,Female,Karnataka,non-anginal pain,130,256,FALSE,FALSE,149,0,0.5,2,0,2,Effected
+66,Male,Punjab,typical angina,120,302,FALSE,FALSE,151,0,0.4,1,0,2,Effected
+62,Male,Haryana,non-anginal pain,130,231,FALSE,TRUE,146,0,1.8,1,3,3,Effected
+44,Female,Himachal Pradesh,non-anginal pain,108,141,FALSE,TRUE,175,0,0.6,1,0,2,Effected
+63,Female,Sikkim,non-anginal pain,135,252,FALSE,FALSE,172,0,0,2,0,2,Effected
+52,Male,Gujarat,atypical angina,134,201,FALSE,TRUE,158,0,0.8,2,1,2,Effected
+48,Male,Telangana,typical angina,122,222,FALSE,FALSE,186,0,0,2,0,2,Effected
+45,Male,Tripura,typical angina,115,260,FALSE,FALSE,185,0,0,2,0,2,Effected
+34,Male,Uttar Pradesh,asymptomatic,118,182,FALSE,FALSE,174,0,0,2,0,2,Effected
+57,Female,Uttarakhand,typical angina,128,303,FALSE,FALSE,159,0,0,2,1,2,Effected
+71,Female,West Bengal,non-anginal pain,110,265,TRUE,FALSE,130,0,0,2,1,2,Effected
+54,Male,Rajasthan,atypical angina,108,309,FALSE,TRUE,156,0,0,2,0,3,Effected
+52,Male,Sikkim,asymptomatic,118,186,FALSE,FALSE,190,0,0,1,0,1,Effected
+41,Male,Gujarat,atypical angina,135,203,FALSE,TRUE,132,0,0,1,0,1,Effected
+58,Male,Telangana,non-anginal pain,140,211,TRUE,FALSE,165,0,0,2,0,2,Effected
+35,Female,Tripura,typical angina,138,183,FALSE,TRUE,182,0,1.4,2,0,2,Effected
+51,Male,Uttar Pradesh,non-anginal pain,100,222,FALSE,TRUE,143,1,1.2,1,0,2,Effected
+45,Female,Uttarakhand,atypical angina,130,234,FALSE,FALSE,175,0,0.6,1,0,2,Effected
+44,Male,West Bengal,atypical angina,120,220,FALSE,TRUE,170,0,0,2,0,2,Effected
+62,Female,Karnataka,typical angina,124,209,FALSE,TRUE,163,0,0,2,0,2,Effected
+54,Male,Punjab,non-anginal pain,120,258,FALSE,FALSE,147,0,0.4,1,0,3,Effected
+51,Male,Haryana,non-anginal pain,94,227,FALSE,TRUE,154,1,0,2,1,3,Effected
+29,Male,Himachal Pradesh,atypical angina,130,204,FALSE,FALSE,202,0,0,2,0,2,Effected
+51,Male,Lakshadweep,typical angina,140,261,FALSE,FALSE,186,1,0,2,0,2,Effected
+43,Female,Puducherry,non-anginal pain,122,213,FALSE,TRUE,165,0,0.2,1,0,2,Effected
+55,Female,Andhra Pradesh,atypical angina,135,250,FALSE,FALSE,161,0,1.4,1,0,2,Effected
+51,Male,Arunachal Pradesh,non-anginal pain,125,245,TRUE,FALSE,166,0,2.4,1,0,2,Effected
+59,Male,Assam,atypical angina,140,221,FALSE,TRUE,164,1,0,2,0,2,Effected
+52,Male,Bihar,atypical angina,128,205,TRUE,TRUE,184,0,0,2,0,2,Effected
+58,Male,Punjab,non-anginal pain,105,240,FALSE,FALSE,154,1,0.6,1,0,3,Effected
+41,Male,Karnataka,non-anginal pain,112,250,FALSE,TRUE,179,0,0,2,0,2,Effected
+45,Male,Punjab,atypical angina,128,308,FALSE,FALSE,170,0,0,2,0,2,Effected
+60,Female,Kerala,non-anginal pain,102,318,FALSE,TRUE,160,0,0,2,1,2,Effected
+52,Male,Karnataka,asymptomatic,152,298,TRUE,TRUE,178,0,1.2,1,0,3,Effected
+42,Female,Punjab,typical angina,102,265,FALSE,FALSE,122,0,0.6,1,0,2,Effected
+67,Female,Haryana,non-anginal pain,115,564,FALSE,FALSE,160,0,1.6,1,0,3,Effected
+68,Male,Himachal Pradesh,non-anginal pain,118,277,FALSE,TRUE,151,0,1,2,1,3,Effected
+46,Male,Goa,atypical angina,101,197,TRUE,TRUE,156,0,0,2,0,3,Effected
+54,Female,Gujarat,non-anginal pain,110,214,FALSE,TRUE,158,0,1.6,1,0,2,Effected
+58,Female,Telangana,typical angina,100,248,FALSE,FALSE,122,0,1,1,0,2,Effected
+48,Male,Tripura,non-anginal pain,124,255,TRUE,TRUE,175,0,0,2,2,2,Effected
+57,Male,Uttar Pradesh,typical angina,132,207,FALSE,TRUE,168,1,0,2,0,3,Effected
+52,Male,Uttarakhand,non-anginal pain,138,223,FALSE,TRUE,169,0,0,2,4,2,Effected
+54,Female,West Bengal,atypical angina,132,288,TRUE,FALSE,159,1,0,2,1,2,Effected
+45,Female,Tamil Nadu,atypical angina,112,160,FALSE,TRUE,138,0,0,1,0,2,Effected
+53,Male,Rajasthan,typical angina,142,226,FALSE,FALSE,111,1,0,2,0,3,Effected
+62,Female,Sikkim,typical angina,140,394,FALSE,FALSE,157,0,1.2,1,0,2,Effected
+52,Male,Gujarat,typical angina,108,233,TRUE,TRUE,147,0,0.1,2,3,3,Effected
+43,Male,Telangana,non-anginal pain,130,315,FALSE,TRUE,162,0,1.9,2,1,2,Effected
+53,Male,West Bengal,non-anginal pain,130,246,TRUE,FALSE,173,0,0,2,3,2,Effected
+42,Male,Uttar Pradesh,asymptomatic,148,244,FALSE,FALSE,178,0,0.8,2,2,2,Effected
+59,Male,Uttarakhand,asymptomatic,178,270,FALSE,FALSE,145,0,4.2,0,0,3,Effected
+63,Female,Maharashtra,atypical angina,140,195,FALSE,TRUE,179,0,0,2,2,2,Effected
+42,Male,Andaman and Nicobar Islands,non-anginal pain,120,240,TRUE,TRUE,194,0,0.8,0,0,3,Effected
+50,Male,Goa,non-anginal pain,129,196,FALSE,TRUE,163,0,0,2,0,2,Effected
+68,Female,Delhi,non-anginal pain,120,211,FALSE,FALSE,115,0,1.5,1,0,2,Effected
+69,Male,Jammu and Kashmir,asymptomatic,160,234,TRUE,FALSE,131,0,0.1,1,1,2,Effected
+45,Female,Lakshadweep,typical angina,138,236,FALSE,FALSE,152,1,0.2,1,0,2,Effected
+50,Female,Puducherry,atypical angina,120,244,FALSE,TRUE,162,0,1.1,2,0,2,Effected
+50,Female,Karnataka,typical angina,110,254,FALSE,FALSE,159,0,0,2,0,2,Effected
+64,Female,Punjab,typical angina,180,325,FALSE,TRUE,154,1,0,2,0,2,Effected
+57,Male,Haryana,non-anginal pain,150,126,TRUE,TRUE,173,0,0.2,2,1,3,Effected
+64,Female,Himachal Pradesh,non-anginal pain,140,313,FALSE,TRUE,133,0,0.2,2,0,3,Effected
+43,Male,Kerala,typical angina,110,211,FALSE,TRUE,161,0,0,2,0,3,Effected
+55,Male,Andhra Pradesh,atypical angina,130,262,FALSE,TRUE,155,0,0,2,0,2,Effected
+37,Female,Tamil Nadu,non-anginal pain,120,215,FALSE,TRUE,170,0,0,2,0,2,Effected
+41,Male,Tamil Nadu,non-anginal pain,130,214,FALSE,FALSE,168,0,2,1,0,2,Effected
+56,Male,Rajasthan,asymptomatic,120,193,FALSE,FALSE,162,0,1.9,1,0,3,Effected
+46,Female,Sikkim,atypical angina,105,204,FALSE,TRUE,172,0,0,2,0,2,Effected
+46,Female,Gujarat,typical angina,138,243,FALSE,FALSE,152,1,0,1,0,2,Effected
+64,Female,Telangana,typical angina,130,303,FALSE,TRUE,122,0,2,1,2,2,Effected
+59,Male,Tripura,typical angina,138,271,FALSE,FALSE,182,0,0,2,0,2,Effected
+41,Female,Uttar Pradesh,non-anginal pain,112,268,FALSE,FALSE,172,1,0,2,0,2,Effected
+54,Female,Uttarakhand,non-anginal pain,108,267,FALSE,FALSE,167,0,0,2,0,2,Effected
+39,Female,West Bengal,non-anginal pain,94,199,FALSE,TRUE,179,0,0,2,0,2,Effected
+34,Female,Kerala,atypical angina,118,210,FALSE,TRUE,192,0,0.7,2,0,2,Effected
+47,Male,Madhya Pradesh,typical angina,112,204,FALSE,TRUE,143,0,0.1,2,0,2,Effected
+67,Female,Maharashtra,non-anginal pain,152,277,FALSE,TRUE,172,0,0,2,1,2,Effected
+52,Female,Manipur,non-anginal pain,136,196,FALSE,FALSE,169,0,0.1,1,0,2,Effected
+74,Female,Meghalaya,atypical angina,120,269,FALSE,FALSE,121,1,0.2,2,1,2,Effected
+54,Female,Mizoram,non-anginal pain,160,201,FALSE,TRUE,163,0,0,2,1,2,Effected
+49,Female,Nagaland,atypical angina,134,271,FALSE,TRUE,162,0,0,1,0,2,Effected
+42,Male,Odisha,atypical angina,120,295,FALSE,TRUE,162,0,0,2,0,2,Effected
+41,Male,Tamil Nadu,atypical angina,110,235,FALSE,TRUE,153,0,0,2,0,2,Effected
+41,Female,Karnataka,atypical angina,126,306,FALSE,TRUE,163,0,0,2,0,2,Effected
+49,Female,Punjab,typical angina,130,269,FALSE,TRUE,163,0,0,2,0,2,Effected
+60,Female,Haryana,non-anginal pain,120,178,TRUE,TRUE,96,0,0,2,0,2,Effected
+62,Male,Himachal Pradesh,atypical angina,128,208,TRUE,FALSE,140,0,0,2,0,2,Effected
+57,Male,Tripura,typical angina,110,201,FALSE,TRUE,126,1,1.5,1,0,1,Effected
+64,Male,Uttar Pradesh,typical angina,128,263,FALSE,TRUE,105,1,0.2,1,1,3,Effected
+51,Female,Punjab,non-anginal pain,120,295,FALSE,FALSE,157,0,0.6,2,0,2,Effected
+43,Male,West Bengal,typical angina,115,303,FALSE,TRUE,181,0,1.2,1,0,2,Effected
+42,Female,Andaman and Nicobar Islands,non-anginal pain,120,209,FALSE,TRUE,173,0,0,1,0,2,Effected
+67,Female,Kerala,typical angina,106,223,FALSE,TRUE,142,0,0.3,2,2,2,Effected
+76,Female,Delhi,non-anginal pain,140,197,FALSE,2,116,0,1.1,1,0,2,Effected
+70,Male,Tamil Nadu,atypical angina,156,245,FALSE,FALSE,143,0,0,2,0,2,Effected
+44,Female,Lakshadweep,non-anginal pain,118,242,FALSE,TRUE,149,0,0.3,1,1,2,Effected
+60,Female,Puducherry,asymptomatic,150,240,FALSE,TRUE,171,0,0.9,2,0,2,Effected
+44,Male,Kerala,non-anginal pain,120,226,FALSE,TRUE,169,0,0,2,0,2,Effected
+42,Male,Madhya Pradesh,non-anginal pain,130,180,FALSE,TRUE,150,0,0,2,0,2,Effected
+66,Male,Karnataka,typical angina,160,228,FALSE,FALSE,138,0,2.3,2,0,1,Effected
+71,Female,Punjab,typical angina,112,149,FALSE,TRUE,125,0,1.6,1,0,2,Effected
+64,Male,Haryana,asymptomatic,170,227,FALSE,FALSE,155,0,0.6,1,0,3,Effected
+66,Female,Himachal Pradesh,non-anginal pain,146,278,FALSE,FALSE,152,0,0,1,1,2,Effected
+39,Female,West Bengal,non-anginal pain,138,220,FALSE,TRUE,152,0,0,1,0,2,Effected
+58,Female,Odisha,typical angina,130,197,FALSE,TRUE,131,0,0.6,1,0,2,Effected
+47,Male,Tamil Nadu,non-anginal pain,130,253,FALSE,TRUE,179,0,0,2,0,2,Effected
+35,Male,Maharashtra,atypical angina,122,192,FALSE,TRUE,174,0,0,2,0,2,Effected
+58,Male,Uttar Pradesh,atypical angina,125,220,FALSE,TRUE,144,0,0.4,1,4,3,Effected
+56,Male,Goa,atypical angina,130,221,FALSE,FALSE,163,0,0,2,0,3,Effected
+56,Male,Kerala,atypical angina,120,240,FALSE,TRUE,169,0,0,0,0,2,Effected
+55,Female,Punjab,atypical angina,132,342,FALSE,TRUE,166,0,1.2,2,0,2,Effected
+41,Male,Maharashtra,atypical angina,120,157,FALSE,TRUE,182,0,0,2,0,2,Effected
+38,Male,Manipur,non-anginal pain,138,175,FALSE,TRUE,173,0,0,2,4,2,Effected
+38,Male,Kerala,non-anginal pain,138,175,FALSE,TRUE,173,0,0,2,4,2,Effected
+67,Male,Mizoram,typical angina,160,286,FALSE,FALSE,108,1,1.5,1,3,2,Not Effected
+67,Male,Tamil Nadu,typical angina,120,229,FALSE,FALSE,129,1,2.6,1,2,3,Not Effected
+62,Female,Odisha,typical angina,140,268,FALSE,FALSE,160,0,3.6,0,2,2,Not Effected
+63,Male,Tamil Nadu,typical angina,130,254,FALSE,FALSE,147,0,1.4,1,1,3,Not Effected
+53,Male,Maharashtra,typical angina,140,203,TRUE,FALSE,155,1,3.1,0,0,3,Not Effected
+56,Male,Uttar Pradesh,non-anginal pain,130,256,TRUE,FALSE,142,1,0.6,1,1,1,Not Effected
+48,Male,Goa,atypical angina,110,229,FALSE,TRUE,168,0,1,0,0,3,Not Effected
+58,Male,Kerala,atypical angina,120,284,FALSE,FALSE,160,0,1.8,1,0,2,Not Effected
+58,Male,Madhya Pradesh,non-anginal pain,132,224,FALSE,FALSE,173,0,3.2,2,2,3,Not Effected
+60,Male,Maharashtra,typical angina,130,206,FALSE,FALSE,132,1,2.4,1,2,3,Not Effected
+40,Male,Punjab,typical angina,110,167,FALSE,FALSE,114,1,2,1,0,3,Not Effected
+60,Male,Meghalaya,typical angina,117,230,TRUE,TRUE,160,1,1.4,2,2,3,Not Effected
+64,Male,Karnataka,non-anginal pain,140,335,FALSE,TRUE,158,0,0,2,0,2,Not Effected
+43,Male,Punjab,typical angina,120,177,FALSE,FALSE,120,1,2.5,1,0,3,Not Effected
+57,Male,Haryana,typical angina,150,276,FALSE,FALSE,112,1,0.6,1,1,1,Not Effected
+55,Male,Himachal Pradesh,typical angina,132,353,FALSE,TRUE,132,1,1.2,1,1,3,Not Effected
+65,Female,Tripura,typical angina,150,225,FALSE,FALSE,114,0,1,1,3,3,Not Effected
+61,Female,Uttar Pradesh,typical angina,130,330,FALSE,FALSE,169,0,0,2,0,2,Not Effected
+58,Male,West Bengal,non-anginal pain,112,230,FALSE,FALSE,165,0,2.5,1,1,3,Not Effected
+50,Male,Andhra Pradesh,typical angina,150,243,FALSE,FALSE,128,0,2.6,1,0,3,Not Effected
+44,Male,Arunachal Pradesh,typical angina,112,290,FALSE,FALSE,153,0,0,2,1,2,Not Effected
+60,Male,Maharashtra,typical angina,130,253,FALSE,TRUE,144,1,1.4,2,1,3,Not Effected
+54,Male,Bihar,typical angina,124,266,FALSE,FALSE,109,1,2.2,1,1,3,Not Effected
+50,Male,Goa,non-anginal pain,140,233,FALSE,TRUE,163,0,0.6,1,1,3,Not Effected
+41,Male,Punjab,typical angina,110,172,FALSE,FALSE,158,0,0,2,0,3,Not Effected
+51,Female,Tamil Nadu,typical angina,130,305,FALSE,TRUE,142,1,1.2,1,0,3,Not Effected
+58,Male,Rajasthan,typical angina,128,216,FALSE,FALSE,131,1,2.2,1,3,3,Not Effected
+54,Male,Sikkim,typical angina,120,188,FALSE,TRUE,113,0,1.4,1,1,3,Not Effected
+60,Male,Punjab,typical angina,145,282,FALSE,FALSE,142,1,2.8,1,2,3,Not Effected
+60,Male,Telangana,non-anginal pain,140,185,FALSE,FALSE,155,0,3,1,0,2,Not Effected
+59,Male,Andhra Pradesh,typical angina,170,326,FALSE,FALSE,140,1,3.4,0,0,3,Not Effected
+46,Male,Kerala,non-anginal pain,150,231,FALSE,TRUE,147,0,3.6,1,0,2,Not Effected
+67,Male,Assam,typical angina,125,254,TRUE,TRUE,163,0,0.2,1,2,3,Not Effected
+62,Male,Tamil Nadu,typical angina,120,267,FALSE,TRUE,99,1,1.8,1,2,3,Not Effected
+65,Male,Karnataka,typical angina,110,248,FALSE,FALSE,158,0,0.6,2,2,1,Not Effected
+44,Male,Punjab,typical angina,110,197,FALSE,FALSE,177,0,0,2,1,2,Not Effected
+60,Male,Tamil Nadu,typical angina,125,258,FALSE,FALSE,141,1,2.8,1,1,3,Not Effected
+58,Male,Karnataka,typical angina,150,270,FALSE,FALSE,111,1,0.8,2,0,3,Not Effected
+68,Male,Punjab,non-anginal pain,180,274,TRUE,FALSE,150,1,1.6,1,0,3,Not Effected
+62,Female,Haryana,typical angina,160,164,FALSE,FALSE,145,0,6.2,0,3,3,Not Effected
+52,Male,Himachal Pradesh,typical angina,128,255,FALSE,TRUE,161,1,0,2,1,3,Not Effected
+59,Male,Andhra Pradesh,typical angina,110,239,FALSE,FALSE,142,1,1.2,1,1,3,Not Effected
+60,Female,Arunachal Pradesh,typical angina,150,258,FALSE,FALSE,157,0,2.6,1,2,3,Not Effected
+49,Male,Assam,non-anginal pain,120,188,FALSE,TRUE,139,0,2,1,3,3,Not Effected
+59,Male,Bihar,typical angina,140,177,FALSE,TRUE,162,1,0,2,1,3,Not Effected
+57,Male,West Bengal,non-anginal pain,128,229,FALSE,FALSE,150,0,0.4,1,1,3,Not Effected
+61,Male,Punjab,typical angina,120,260,FALSE,TRUE,140,1,3.6,1,1,3,Not Effected
+39,Male,Tamil Nadu,typical angina,118,219,FALSE,TRUE,140,0,1.2,1,0,3,Not Effected
+61,Female,Maharashtra,typical angina,145,307,FALSE,FALSE,146,1,1,1,0,3,Not Effected
+56,Male,Sikkim,typical angina,125,249,TRUE,FALSE,144,1,1.2,1,1,2,Not Effected
+43,Female,Goa,typical angina,132,341,TRUE,FALSE,136,1,3,1,0,3,Not Effected
+62,Female,Telangana,non-anginal pain,130,263,FALSE,TRUE,97,0,1.2,1,1,3,Not Effected
+63,Male,Andhra Pradesh,typical angina,130,330,TRUE,FALSE,132,1,1.8,2,3,3,Not Effected
+65,Male,Arunachal Pradesh,typical angina,135,254,FALSE,FALSE,127,0,2.8,1,1,3,Not Effected
+48,Male,Assam,typical angina,130,256,TRUE,FALSE,150,1,0,2,2,3,Not Effected
+63,Female,Karnataka,typical angina,150,407,FALSE,FALSE,154,0,4,1,3,3,Not Effected
+55,Male,Punjab,typical angina,140,217,FALSE,TRUE,111,1,5.6,0,0,3,Not Effected
+65,Male,Haryana,asymptomatic,138,282,TRUE,FALSE,174,0,1.4,1,1,2,Not Effected
+56,Female,Himachal Pradesh,typical angina,200,288,TRUE,FALSE,133,1,4,0,2,3,Not Effected
+54,Male,Rajasthan,typical angina,110,239,FALSE,TRUE,126,1,2.8,1,1,3,Not Effected
+70,Male,Sikkim,typical angina,145,174,FALSE,TRUE,125,1,2.6,0,0,3,Not Effected
+62,Male,Gujarat,atypical angina,120,281,FALSE,FALSE,103,0,1.4,1,1,3,Not Effected
+35,Male,Telangana,typical angina,120,198,FALSE,TRUE,130,1,1.6,1,0,3,Not Effected
+59,Male,Tripura,asymptomatic,170,288,FALSE,FALSE,159,0,0.2,1,0,3,Not Effected
+64,Male,Uttar Pradesh,non-anginal pain,125,309,FALSE,TRUE,131,1,1.8,1,0,3,Not Effected
+47,Male,Uttarakhand,non-anginal pain,108,243,FALSE,TRUE,152,0,0,2,0,2,Not Effected
+57,Male,West Bengal,typical angina,165,289,TRUE,FALSE,124,0,1,1,3,3,Not Effected
+55,Male,Punjab,typical angina,160,289,FALSE,FALSE,145,1,0.8,1,1,3,Not Effected
+64,Male,Andhra Pradesh,typical angina,120,246,FALSE,FALSE,96,1,2.2,0,1,2,Not Effected
+70,Male,Arunachal Pradesh,typical angina,130,322,FALSE,FALSE,109,0,2.4,1,3,2,Not Effected
+51,Male,Kerala,typical angina,140,299,FALSE,TRUE,173,1,1.6,2,0,3,Not Effected
+58,Male,Bihar,typical angina,125,300,FALSE,FALSE,171,0,0,2,2,3,Not Effected
+60,Male,Tamil Nadu,typical angina,140,293,FALSE,FALSE,170,0,1.2,1,2,3,Not Effected
+77,Male,Punjab,typical angina,125,304,FALSE,FALSE,162,1,0,2,3,2,Not Effected
+35,Male,Tamil Nadu,typical angina,126,282,FALSE,FALSE,156,1,0,2,0,3,Not Effected
+70,Male,Rajasthan,non-anginal pain,160,269,FALSE,TRUE,112,1,2.9,1,1,3,Not Effected
+59,Female,Sikkim,typical angina,174,249,FALSE,TRUE,143,1,0,1,0,2,Not Effected
+64,Male,Gujarat,typical angina,145,212,FALSE,FALSE,132,0,2,1,2,1,Not Effected
+57,Male,Telangana,typical angina,152,274,FALSE,TRUE,88,1,1.2,1,1,3,Not Effected
+56,Male,West Bengal,typical angina,132,184,FALSE,FALSE,105,1,2.1,1,1,1,Not Effected
+48,Male,Andhra Pradesh,typical angina,124,274,FALSE,FALSE,166,0,0.5,1,0,3,Not Effected
+56,Female,Arunachal Pradesh,typical angina,134,409,FALSE,FALSE,150,1,1.9,1,2,3,Not Effected
+66,Male,Maharashtra,atypical angina,160,246,FALSE,TRUE,120,1,0,1,3,1,Not Effected
+54,Male,Bihar,atypical angina,192,283,FALSE,FALSE,195,0,0,2,1,3,Not Effected
+69,Male,Goa,non-anginal pain,140,254,FALSE,FALSE,146,0,2,1,3,3,Not Effected
+51,Male,Punjab,typical angina,140,298,FALSE,TRUE,122,1,4.2,1,3,3,Not Effected
+43,Male,Tamil Nadu,typical angina,132,247,TRUE,FALSE,143,1,0.1,1,4,3,Not Effected
+62,Female,Punjab,typical angina,138,294,TRUE,TRUE,106,0,1.9,1,3,2,Not Effected
+67,Male,Sikkim,typical angina,100,299,FALSE,FALSE,125,1,0.9,1,2,2,Not Effected
+59,Male,Karnataka,asymptomatic,160,273,FALSE,FALSE,125,0,0,2,0,2,Not Effected
+45,Male,Punjab,typical angina,142,309,FALSE,FALSE,147,1,0,1,3,3,Not Effected
+58,Male,Haryana,typical angina,128,259,FALSE,FALSE,130,1,3,1,2,3,Not Effected
+50,Male,Himachal Pradesh,typical angina,144,200,FALSE,FALSE,126,1,0.9,1,0,3,Not Effected
+62,Female,Sikkim,typical angina,150,244,FALSE,TRUE,154,1,1.4,1,0,2,Not Effected
+38,Male,Gujarat,asymptomatic,120,231,FALSE,TRUE,182,1,3.8,1,0,3,Not Effected
+66,Female,Telangana,typical angina,178,228,TRUE,TRUE,165,1,1,1,2,3,Not Effected
+52,Male,Tripura,typical angina,112,230,FALSE,TRUE,160,0,0,2,1,2,Not Effected
+53,Male,Uttar Pradesh,typical angina,123,282,FALSE,TRUE,95,1,2,1,2,3,Not Effected
+63,Female,Uttarakhand,typical angina,108,269,FALSE,TRUE,169,1,1.8,1,2,2,Not Effected
+54,Male,West Bengal,typical angina,110,206,FALSE,FALSE,108,1,0,1,1,2,Not Effected
+66,Male,Nagaland,typical angina,112,212,FALSE,FALSE,132,1,0.1,2,1,2,Not Effected
+55,Female,Odisha,typical angina,180,327,FALSE,2,117,1,3.4,1,0,2,Not Effected
+49,Male,Tamil Nadu,non-anginal pain,118,149,FALSE,FALSE,126,0,0.8,2,3,2,Not Effected
+54,Male,Rajasthan,typical angina,122,286,FALSE,FALSE,116,1,3.2,1,2,2,Not Effected
+56,Male,Sikkim,typical angina,130,283,TRUE,FALSE,103,1,1.6,0,0,3,Not Effected
+46,Male,Gujarat,typical angina,120,249,FALSE,FALSE,144,0,0.8,2,0,3,Not Effected
+61,Male,Telangana,asymptomatic,134,234,FALSE,TRUE,145,0,2.6,1,2,2,Not Effected
+67,Male,Tripura,typical angina,120,237,FALSE,TRUE,71,0,1,1,0,2,Not Effected
+58,Male,Uttar Pradesh,typical angina,100,234,FALSE,TRUE,156,0,0.1,2,1,3,Not Effected
+47,Male,Uttarakhand,typical angina,110,275,FALSE,FALSE,118,1,1,1,1,2,Not Effected
+52,Male,West Bengal,typical angina,125,212,FALSE,TRUE,168,0,1,2,2,3,Not Effected
+58,Male,Sikkim,typical angina,146,218,FALSE,TRUE,105,0,2,1,1,3,Not Effected
+57,Male,Gujarat,atypical angina,124,261,FALSE,TRUE,141,0,0.3,2,0,3,Not Effected
+58,Female,Telangana,atypical angina,136,319,TRUE,FALSE,152,0,0,2,2,2,Not Effected
+61,Male,Tripura,typical angina,138,166,FALSE,FALSE,125,1,3.6,1,1,2,Not Effected
+42,Male,Uttar Pradesh,typical angina,136,315,FALSE,TRUE,125,1,1.8,1,0,1,Not Effected
+52,Male,Uttarakhand,typical angina,128,204,TRUE,TRUE,156,1,1,1,0,0,Not Effected
+59,Male,Karnataka,non-anginal pain,126,218,TRUE,TRUE,134,0,2.2,1,1,1,Not Effected
+40,Male,Punjab,typical angina,152,223,FALSE,TRUE,181,0,0,2,0,3,Not Effected
+61,Male,Haryana,typical angina,140,207,FALSE,FALSE,138,1,1.9,2,1,3,Not Effected
+46,Male,Himachal Pradesh,typical angina,140,311,FALSE,TRUE,120,1,1.8,1,2,3,Not Effected
+59,Male,Maharashtra,asymptomatic,134,204,FALSE,TRUE,162,0,0.8,2,2,2,Not Effected
+57,Male,Sikkim,atypical angina,154,232,FALSE,FALSE,164,0,0,2,1,2,Not Effected
+57,Male,Goa,typical angina,110,335,FALSE,TRUE,143,1,3,1,1,3,Not Effected
+55,Female,Punjab,typical angina,128,205,FALSE,2,130,1,2,1,1,3,Not Effected
+61,Male,Tripura,typical angina,148,203,FALSE,TRUE,161,0,0,2,1,3,Not Effected
+58,Male,Uttar Pradesh,typical angina,114,318,FALSE,2,140,0,4.4,0,3,1,Not Effected
+58,Female,Kerala,typical angina,170,225,TRUE,FALSE,146,1,2.8,1,2,1,Not Effected
+67,Male,West Bengal,non-anginal pain,152,212,FALSE,FALSE,150,0,0.8,1,0,3,Not Effected
+44,Male,Tamil Nadu,typical angina,120,169,FALSE,TRUE,144,1,2.8,0,0,1,Not Effected
+63,Male,Karnataka,typical angina,140,187,FALSE,FALSE,144,1,4,2,2,3,Not Effected
+63,Female,Punjab,typical angina,124,197,FALSE,TRUE,136,1,0,1,0,2,Not Effected
+59,Male,Haryana,typical angina,164,176,TRUE,FALSE,90,0,1,1,2,1,Not Effected
+57,Female,Himachal Pradesh,typical angina,140,241,FALSE,TRUE,123,1,0.2,1,0,3,Not Effected
+45,Male,Goa,asymptomatic,110,264,FALSE,TRUE,132,0,1.2,1,0,3,Not Effected
+68,Male,Sikkim,typical angina,144,193,TRUE,TRUE,141,0,3.4,1,2,3,Not Effected
+57,Male,Gujarat,typical angina,130,131,FALSE,TRUE,115,1,1.2,1,1,3,Not Effected
+57,Female,Telangana,atypical angina,130,236,FALSE,FALSE,174,0,0,1,1,2,Not Effected
